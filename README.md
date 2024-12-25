@@ -88,5 +88,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contributions
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
 
+## Author
+Original author is Daulat Hussain - https://www.youtube.com/watch?v=AcXVKkYnu1c
 
+For questions or feedback, please contact [Angela Taylor](mailto:hello@angelataylorllc.com).
 
